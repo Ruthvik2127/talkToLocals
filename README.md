@@ -4,7 +4,7 @@ I have created a website viz "talkToLocals" for people who are likely to explore
 
 ###  link to my site hosted via azure services: [talkToLocals](https://polite-cliff-06d9ec200.1.azurestaticapps.net/ "talkToLocals")
 
-### Demo video explaining my project: [demo video](http://youtube.com "demo video")
+### Demo video explaining my project: [demo video](https://youtu.be/KQPre8BFp_k "demo video")
 
 # Azure portal screenshot
 
