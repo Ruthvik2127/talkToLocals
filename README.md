@@ -1,0 +1,2 @@
+# talkToLocals
+Many of us enjoy visiting new places, discovering new spots for hanging out with our friends or to enjoy the new culture. But the main problem is we don't know where to go and many of us fear taking risks going to a place without knowing about it. Some of us don't even know special spots nearby their place. My website main motive is to be a barrier between local people and people who like to discover new places and make them talk to each other. So that they can clear their doubts about the place, or they may find new places with the help of locals.
